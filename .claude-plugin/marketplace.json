@@ -1,0 +1,35 @@
+{
+  "name": "kdaws",
+  "owner": {
+    "name": "KDAWS",
+    "email": "plugins@kdaws.com"
+  },
+  "metadata": {
+    "description": "KDAWS development tools for Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "wflow",
+      "source": {
+        "source": "github",
+        "repo": "KDAWS-com/cc-wflow",
+        "ref": "v1.0.0"
+      },
+      "description": "GitHub Issue-driven workflow orchestrator",
+      "category": "workflow",
+      "tags": ["github", "workflow", "issues"]
+    },
+    {
+      "name": "quality",
+      "source": {
+        "source": "github",
+        "repo": "KDAWS-com/cc-quality",
+        "ref": "v1.0.0"
+      },
+      "description": "AI-powered code quality and security scanning",
+      "category": "quality",
+      "tags": ["security", "code-quality", "scanning"]
+    }
+  ]
+}
