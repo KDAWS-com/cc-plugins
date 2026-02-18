@@ -14,7 +14,7 @@
             "source": {
                 "source": "github",
                 "repo": "KDAWS-com/cc-wflow",
-                "ref": "v1.3.3"
+                "ref": "b184ef0d5fdf5d5cc6416cd76613321f34d3c81d"
             },
             "description": "GitHub Issue-driven workflow orchestrator",
             "category": "workflow",
@@ -29,7 +29,7 @@
             "source": {
                 "source": "github",
                 "repo": "KDAWS-com/cc-quality",
-                "ref": "v1.2.0"
+                "ref": "df09fbf0797c5b95ca65d1f4d0a4b537566d39fe"
             },
             "description": "AI-powered code quality and security scanning",
             "category": "quality",
