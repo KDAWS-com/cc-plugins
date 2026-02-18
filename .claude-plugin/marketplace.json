@@ -14,7 +14,7 @@
             "source": {
                 "source": "github",
                 "repo": "KDAWS-com/cc-wflow",
-                "ref": "b184ef0d5fdf5d5cc6416cd76613321f34d3c81d"
+                "ref": "4ea58b6cd1bcbd1a426b03766ab2fa055ead4cc1"
             },
             "description": "GitHub Issue-driven workflow orchestrator",
             "category": "workflow",
@@ -44,7 +44,7 @@
             "source": {
                 "source": "github",
                 "repo": "KDAWS-com/cc-test-helper",
-                "ref": "824599f950f717fb5e475c6426a226deba8f8374"
+                "ref": "280b100088452a470b96dd9268e4672597a4394d"
             },
             "description": "Parallel test execution with framework auto-detection",
             "category": "testing",
