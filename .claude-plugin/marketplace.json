@@ -38,6 +38,22 @@
                 "code-quality",
                 "scanning"
             ]
+        },
+        {
+            "name": "test-helper",
+            "source": {
+                "source": "github",
+                "repo": "KDAWS-com/cc-test-helper",
+                "ref": "v1.0.0"
+            },
+            "description": "Parallel test execution with framework auto-detection",
+            "category": "testing",
+            "tags": [
+                "testing",
+                "parallel",
+                "ci",
+                "test-runner"
+            ]
         }
     ]
 }
