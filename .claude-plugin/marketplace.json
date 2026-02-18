@@ -44,7 +44,7 @@
             "source": {
                 "source": "github",
                 "repo": "KDAWS-com/cc-test-helper",
-                "ref": "v1.0.0"
+                "ref": "824599f950f717fb5e475c6426a226deba8f8374"
             },
             "description": "Parallel test execution with framework auto-detection",
             "category": "testing",
